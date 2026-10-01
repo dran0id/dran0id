@@ -4,5 +4,5 @@
 ## 프로젝트
 | 📦 [KkeuDeok](https://github.com) |
 | :--- |
-| 끄덕 프로젝트 repository 입니다 <br>|
+| 끄덕 프로젝트 발달장애 아동을 위한 AI 기반 감정·사회성 학습 플랫폼이에요 <br>|
 
