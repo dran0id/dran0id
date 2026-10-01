@@ -4,5 +4,5 @@
 ## 프로젝트
 | 📦 [KkeuDeok](https://github.com) |
 | :--- |
-| 끄덕 프로젝트 repository 입니다. <br><br> 🟠 **Java** &nbsp;&nbsp; ⭐ **1** &nbsp;&nbsp; 🍴 **2** |
+| 끄덕 프로젝트 repository 입니다 <br>|
 
