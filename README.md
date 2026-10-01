@@ -2,9 +2,7 @@
 코딩 공부 하고 있어요
 
 ## 프로젝트
-| [KkeuDeok / kkeudeok](https://github.com) |
-
-  |참가했던 프로젝트이에요|
-  
-  |발달장애 아동을 위한 AI 기반 감정·사회성 학습 플랫폼이에요|
+| 📦 [KkeuDeok](https://github.com) |
+| :--- |
+| 끄덕 프로젝트 repository 입니다. <br><br> 🟠 **Java** &nbsp;&nbsp; ⭐ **1** &nbsp;&nbsp; 🍴 **2** |
 
